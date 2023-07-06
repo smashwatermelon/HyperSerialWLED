@@ -20,7 +20,6 @@ build_flags = ${common.build_flags_esp8266}
    -DWLED_USE_MY_CONFIG
 ; *********************************************************************
 ;
-;
 ; *** To use the below defines/overrides, copy and paste each onto it's own line just below build_flags in the section above.
 ; 
 ; disable specific features
